@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @panavsethi1
-- 👀 Interested in Fullstack Development
+- 👀 Interested in Fullstack Development.
 - 🌱 Currently learning Python. 
 - 💞️ Looking for good web development projects.
 - 📫 How to reach me: Email - panav.sethi.delhi@gmail.com
